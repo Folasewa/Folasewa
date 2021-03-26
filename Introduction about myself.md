@@ -5,3 +5,4 @@ I am currently learning Python programming language in Machine learning, very so
 I am open to any internship placements either as a Research intern or a Data Analytics intern.
 I love reading books, watching K-drama and listening to Afro-rap, Afro-pop and Reggae blues music.
 You can reach me through my email address, abdulsalammaryam381@gmail.com
+
