@@ -1,8 +1,12 @@
-Hi there, it's Folasewa. I am a recent graduate student of Obafemi Awolowo University. I studied Computer Science with Mathematics. I aim to apply the knowledge gained in the classroom to research and development in the Biomedicine sector. My interests lie in blood disorders and therapeutic genome editing.
+Hi there, it's Folasewa. 
 
-While I am just trying to break into this new field, I am currently starting personal projects on Machine Learning. You can check them on my GitHub page.
+I am currently studying in a master's program in Neuroscience and Data science.
 
-I am open to collaborations, projects, and internships to learn, grow, and contribute to academia and industry.
+From October 2024 to 2026, my GitHub activities will feature projects in Deep Learning, Signal Processing, Neural Decoding, and Neuropharmacology.
 
-While I am not reading, I am watching Kdrama or listening to music.
+I see this space as a learning period and I hope you can track my learning growth through this platform.
+
+I am open to summer internships in BCI/Neuroscience/Data Science.
+
+
 You can reach me through my email address, abdulsalammaryam381@gmail.com
