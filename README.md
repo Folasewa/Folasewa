@@ -1,12 +1,11 @@
 Hi there, it's Folasewa. 
 
-I am currently studying in a master's program in Neuroscience and Data science.
+I am currently pursuing a dual master's degree in Brain and Data Science
 
-From October 2024 to 2026, my GitHub activities will feature projects in Deep Learning, Signal Processing, Neural Decoding, and Neuropharmacology.
+My interests lie in brain signal analysis and brain-computer interface. 
 
-I see this space as a learning period and I hope you can track my learning growth through this platform.
 
-I am open to summer internships in BCI/Neuroscience/Data Science.
+I am open to job opportunities/internships in BCI/NeuroAI.
 
 
 You can reach me through my email address, abdulsalammaryam381@gmail.com
