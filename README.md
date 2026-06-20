@@ -1,6 +1,6 @@
 Hi, I'm Folasewa Abdulsalam
 
-🧠 Machine Learning • Data Science • Research Engineering
+🧠 Machine Learning • NeuroML • Research Engineering
 
 I build intelligent systems, data pipelines, and machine learning solutions for complex real-world problems. My work spans neuroscience, biomedical data, simulation, agentic AI, and predictive modeling, with a focus on turning messy data into actionable insights and reproducible tools.
 
